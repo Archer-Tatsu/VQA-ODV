@@ -29,8 +29,8 @@ The following uses are NOT allowed for the proposed sequences:
 
 ## Download
 Please send email in the format as follow:
-> SUBJECT: VQA-ODV
 
+> SUBJECT: VQA-ODV
 > TO: database[at]buaamc2[dot]net
 
 Or you can use [this hyperlink](mailto:database@buaamc2.net?subject=VQA-ODV&body=Anything%20to%20say) to send the email.

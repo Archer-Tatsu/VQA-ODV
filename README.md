@@ -1,5 +1,6 @@
 # VQA-ODV
-A large-scale VQA database of omnidirectional video proposed in ACMMM 2018 paper `Bridge The Gap Between VQA and Human Behavior on Omnidirectional Video: A Large-Scale Database and A Deep Learning Model`.
+A large-scale VQA database of omnidirectional video proposed in ACMMM 2018 paper.
+> Bridge The Gap Between VQA and Human Behavior on Omnidirectional Video: A Large-Scale Database and A Deep Learning Model
 
 ![](./images/Screenshots.jpg)  
 

@@ -30,8 +30,8 @@ The following uses are NOT allowed for the proposed sequences:
 ## Download
 Please send email in the format as follow:
 
-> SUBJECT: VQA-ODV
-> TO: database[at]buaamc2[dot]net
+> * SUBJECT: VQA-ODV
+> * TO: database[at]buaamc2[dot]net
 
 Or you can use [this hyperlink](mailto:database@buaamc2.net?subject=VQA-ODV&body=Anything%20to%20say) to send the email.
 After sending the email, you are supposed to receive the response **immediately** with the download link and the password for unzipping. If not, please check whether it is identified as spam by your ESP.

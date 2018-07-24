@@ -1,13 +1,13 @@
 # VQA-ODV
-A large-scale VQA database of omnidirectional video proposed in ACMMM 2018 paper.
-> Bridge The Gap Between VQA and Human Behavior on Omnidirectional Video: A Large-Scale Database and A Deep Learning Model
+A large-scale VQA dataset of omnidirectional video proposed in ACMMM 2018 paper.
+> Bridge The Gap Between VQA and Human Behavior on Omnidirectional Video: A Large-Scale Dataset and A Deep Learning Model
 
 ![](./images/Screenshots.jpg)  
 
 ## Introduction
 
-VQA-ODV is a large-scale database of omnidirectional video for visual quality assessment (VQA). There is in total **600** omnidirectional video sequences in VQA-ODV, of which 60 are reference sequences in diverse content.
-The database is organized as follow.
+VQA-ODV is a large-scale dataset of omnidirectional video for visual quality assessment (VQA). There is in total **600** omnidirectional video sequences in VQA-ODV, of which 60 are reference sequences in diverse content.
+The dataset is organized as follow.
 ![](./images/DirStructure.jpg)
 More details can be found in our ACMMM 2018 paper.
 
@@ -32,9 +32,9 @@ The following uses are NOT allowed for the proposed sequences:
 Please send email in the format as follow:
 
 > * SUBJECT: VQA-ODV
-> * TO: database[at]buaamc2[dot]net
+> * TO: dataset[at]buaamc2[dot]net
 
-Or you can use [this hyperlink](mailto:database@buaamc2.net?subject=VQA-ODV&body=Anything%20to%20say) to send the email.
+Or you can use [this hyperlink](mailto:dataset@buaamc2.net?subject=VQA-ODV&body=Anything%20to%20say) to send the email.
 After sending the email, you are supposed to receive the response **immediately** with the download link and the password for unzipping. If not, please check whether it is identified as spam by your ESP.
 
 ## Citation

@@ -7,7 +7,7 @@ October 22–26, 2018, Seoul, Republic of Korea. ACM, New York, NY, USA,
 9 pages. https://doi.org/10.1145/3240508.3240581
 
 ## Citation
-If you use VQA-ODV in your research, please cite:
+**If you use VQA-ODV in your research, please cite**:
 ```
 @inproceedings{Li:2018:BGB:3240508.3240581,
  author = {Li, Chen and Xu, Mai and Du, Xinzhe and Wang, Zulin},

@@ -12,7 +12,7 @@ October 22–26, 2018, Seoul, Republic of Korea. ACM, New York, NY, USA,
 @inproceedings{Li:2018:BGV:3240508.3240581,
  author = {Li, Chen and Xu, Mai and Du, Xinzhe and Wang, Zulin},
  title = {Bridge the Gap Between VQA and Human Behavior on Omnidirectional Video: A Large-Scale Dataset and a Deep Learning Model},
- booktitle = {2018 ACM Multimedia Conference on Multimedia Conference},
+ booktitle = {Proceedings of the 26th ACM International Conference on Multimedia},
  series = {MM '18},
  year = {2018},
  isbn = {978-1-4503-5665-7},
@@ -25,7 +25,6 @@ October 22–26, 2018, Seoul, Republic of Korea. ACM, New York, NY, USA,
  publisher = {ACM},
  address = {New York, NY, USA},
  keywords = {human behavior, omnidirectional video, visual quality assessment},
-} 
 ```
 
 ![](./images/Screenshots.jpg)  

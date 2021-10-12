@@ -6,9 +6,6 @@ and a Deep Learning Model](https://arxiv.org/abs/1807.10990). In 2018 ACM Multim
 October 22–26, 2018, Seoul, Republic of Korea. ACM, New York, NY, USA,
 9 pages. https://doi.org/10.1145/3240508.3240581
 
-## NOTE!! [2021-10-12]
-We are in trouble with dropbox policy to ban links exceed the bandwidth limit, so the link might not work recently. We are solving this problem, please wait! Thanks.
-
 ## Citation
 **If you use VQA-ODV in your research, please cite**:
 ```
